@@ -12,8 +12,9 @@
 
 > still a 4th year IT student in Cebu Institute of Technology - University
 > <img src='assets/cit.png' width='30' style='transform:translate(15%,30%)' />
->
-> <br>
+
+<br>
+<br>
 
 <p>
 <a href='www.facebook.com/sampeloreynald'><img style='margin-right:.5rem' src='https://img.shields.io/badge/Bo-%20-%231877F2?style=social&logo=facebook'style="margin-right:1rem" /></a>
@@ -22,9 +23,7 @@
 
 </p>
 <br>
-<h2 style='color:
-#477341
-' align="left">Stack</h2>
+<h2 align="left">Stack</h2>
 <br>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
