@@ -10,8 +10,10 @@
 
 ## About Me
 
-> still a 4th year IT student in Cebu Institute of Technology - University
-> <img src='assets/cit.png' width='30' style='transform:translate(15%,30%)' />
+> a 4th year IT student in Cebu Institute of Technology - University
+> <a href='www.cit.edu'><img src='assets/cit.png' width=20 ></a>
+
+> wa ra gud hehe
 
 <br>
 <br>
