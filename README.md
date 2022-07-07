@@ -1,8 +1,5 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on qwts chat app
-- 🌱 I’m currently learning ReactJS
-- 😄 Pronouns: ba/dum/tss
+## Hi there 👋
+I am Reynald Sampelo
 
 <!--
 **whitewaterjunkie/whitewaterjunkie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
