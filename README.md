@@ -19,9 +19,9 @@
 <br>
 
 <p>
-<a href='www.facebook.com/sampeloreynald'><img style='margin-right:.5rem' src='https://img.shields.io/badge/Bo-%20-%231877F2?style=social&logo=facebook'style="margin-right:1rem" /></a>
-<a href='www.twitter.com/sempitrnalsh8'><img style='margin-right:.5rem' src='https://img.shields.io/badge/@sempitrnalsh8-22-%231877F2?style=social&logo=twitter'style="margin-right:1rem" /></a>
-<a href='www.instagram.com/__brownrecluse'><img style='margin-right:.5rem' src='https://img.shields.io/badge/@__brownrecluse-298-%231877F2?style=social&logo=instagram'style="margin-right:1rem" /></a>
+<a href='https://facebook.com/sampeloreynald'><img style='margin-right:.5rem' src='https://img.shields.io/badge/Bo-%20-%231877F2?style=social&logo=facebook'style="margin-right:1rem" /></a>
+<a href='https://twitter.com/sempitrnalsh8'><img style='margin-right:.5rem' src='https://img.shields.io/badge/@sempitrnalsh8-22-%231877F2?style=social&logo=twitter'style="margin-right:1rem" /></a>
+<a href='https://instagram.com/__brownrecluse'><img style='margin-right:.5rem' src='https://img.shields.io/badge/@__brownrecluse-298-%231877F2?style=social&logo=instagram'style="margin-right:1rem" /></a>
 
 </p>
 <br>
