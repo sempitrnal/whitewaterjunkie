@@ -10,8 +10,7 @@
 
 ## About Me
 
-> a 4th year IT student in Cebu Institute of Technology - University
-> <a href='www.cit.edu'><img src='assets/cit.png' width=20 ></a>
+> a 4th year IT student in Cebu Institute of Technology - University <a href='www.cit.edu'><img src='assets/cit.png' width=20 ></a>
 
 > wa ra gud hehe
 
@@ -38,7 +37,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="/assets/chakra.png" alt="chakra" width="40" height="40"/> </a> </p>
 
 #
 
