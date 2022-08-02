@@ -24,7 +24,7 @@
     </a><a href="https://www.mysql.com" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="./assets/mysql.png" alt="mysql" width="40" height="40"/>
     </a><a href="https://www.php.com" target="_blank" rel="noreferrer">
-        <img style='margin-right:.5rem' src="./assets/PHP-logo.svg.png" alt="php" width="40" height="40"/>
+        <img style='margin-right:.5rem' src="./assets/php2.png" alt="php" width="40" height="40"/>
     </a>     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
