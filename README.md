@@ -24,14 +24,14 @@
     </a><a href="https://www.mysql.com" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="./assets/mysql.png" alt="mysql" width="40" height="40"/>
     </a><a href="https://www.php.com" target="_blank" rel="noreferrer">
-        <img style='margin-right:.5rem' src="./assets/php.png alt="php" width="40" height="40"/>
+        <img style='margin-right:.5rem' src="./assets/php1.png alt="php" width="40" height="40"/>
     </a>     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
     </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="./assets/next.png" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="/assets/chakra.png" alt="chakra" width="40" height="40"/> </a><a href="https://www.figma.com" target="_blank" rel="noreferrer">
+    </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="./assets/next1.png" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img style='margin-right:.5rem' src="/assets/chakra.png" alt="chakra" width="40" height="40"/> </a><a href="https://www.figma.com" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
     </a> 
     </p>
