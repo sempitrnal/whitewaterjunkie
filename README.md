@@ -14,6 +14,8 @@
 
 ### Socials
 
+<br>
+
 <p>
 <a href='https://facebook.com/sampeloreynald'><img style='margin-right:.5rem' src='https://img.shields.io/badge/Bo-%20-%231877F2?style=social&logo=facebook'style="margin-right:1rem" /></a>
 <a href='https://twitter.com/sempitrnalsh8'><img style='margin-right:.5rem' src='https://img.shields.io/badge/@sempitrnalsh8-22-%231877F2?style=social&logo=twitter'style="margin-right:1rem" /></a>
@@ -22,6 +24,8 @@
 </p>
 <br>
 <h3 align="left">Languages & Tools</h3>
+
+<br>
 
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -47,6 +51,8 @@
 <br>
 
 ### Softwares
+
+<br>
 
 <p>
     <a href="https://www.code.visualstudio.com" target="_blank" rel="noreferrer">
