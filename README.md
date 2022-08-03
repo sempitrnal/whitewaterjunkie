@@ -60,7 +60,7 @@
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="./assets/dabinky.png" alt="davinci" width="40" height="40"/>
     </a> 
-    <a href="https://www.code.visualstudio.com" target="_blank" rel="noreferrer">
+    <a href="https://www.adobe.com/ph_en/products/photoshop.html" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png" alt="figma" width="40" height="40"/>
     </a> 
     <a href="https://skylum.com/luminar" target="_blank" rel="noreferrer">
