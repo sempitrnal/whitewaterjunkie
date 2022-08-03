@@ -1,13 +1,18 @@
-# Yewww! I am Bo 🤙🏽
+# Hello 👋 My name is Bo
 
-## Frontend Dev
+## Frontend Dev | Student
 
 <p style='color:#555; line-height:2.5rem'>
- 4th year IT Student at Cebu Institute of Technology - University. I am currently in the process of learning Frontend Development and I am enjoying it frfr 😃👍 Aside from programming, I also like to do some recreational activities such as Freediving, Kickboxing, and Surfskating! 🤙🏽
- 
+ 4th year IT Student at Cebu Institute of Technology - University. I am currently in the process of learning Frontend Development and I am enjoying it 😃👍 Aside from programming, I also like to do some recreational activities such as Freediving, Kickboxing, and Surfskating! 
 </p>
 
-`<br> <br>
+- 🌍 Based in Cebu, Philippines
+- 🖥️ Loading...
+- ✉️ You may contact me at reynaldsampelo6@gmail.com
+- 🧠 I'm learning .NET Core + React for Capstone Project
+- 🤝 I'm open to collaborating on interesting projects
+
+## Socials
 
 <p>
 <a href='https://facebook.com/sampeloreynald'><img style='margin-right:.5rem' src='https://img.shields.io/badge/Bo-%20-%231877F2?style=social&logo=facebook'style="margin-right:1rem" /></a>
@@ -15,12 +20,16 @@
 <a href='https://instagram.com/__brownrecluse'><img style='margin-right:.5rem' src='https://img.shields.io/badge/@__brownrecluse-298-%231877F2?style=social&logo=instagram'style="margin-right:1rem" /></a>
 
 </p>
-<br>
+
 <h2 align="left">Stack</h2>
-<br>
+
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a><a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img style='margin-right:.5rem' src="./assets/java-logo-1.png" alt="java" width="40" height="40"/>
+    </a><a href="https://www.android.com/" target="_blank" rel="noreferrer">
+        <img style='margin-right:.5rem' src="./assets/android.png" alt="android" width="40" height="40"/>
     </a><a href="https://www.mysql.com" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="./assets/mysql.png" alt="mysql" width="40" height="40"/>
     </a><a href="https://www.php.com" target="_blank" rel="noreferrer">
@@ -35,10 +44,5 @@
         <img style='margin-right:.5rem' src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
     </a> 
     </p>
-
-#
-
-<br/>
-<br/>
 
 <p><img style='margin-right:.5rem' align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitewaterjunkie&show_icons=true&locale=en&layout=compact" alt="whitewaterjunkie" /></p>
