@@ -45,10 +45,10 @@
     </a> 
     </p>
 <br>
-###Softwares
+### Softwares
 <p>
     <a href="https://www.code.visualstudio.com" target="_blank" rel="noreferrer">
-        <img style='margin-right:.5rem' src="./assets/vscode.png" alt="figma" width="40" height="40"/>
+        <img style='margin-right:.5rem' src="./assets/vscode.png" alt="figma" width="40" height="40" />
     </a> 
     <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="./assets/dabinky.png" alt="davinci" width="40" height="40"/>
