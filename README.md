@@ -12,7 +12,6 @@
 - 🧠 I'm learning .NET Core + React for Capstone Project
 - 🤝 I'm open to collaborating on interesting projects
 
-### Socials
 
 <br>
 
@@ -22,7 +21,7 @@
 <a href='https://instagram.com/__brownrecluse'><img style='margin-right:.5rem' src='https://img.shields.io/badge/@__brownrecluse-298-%231877F2?style=social&logo=instagram'style="margin-right:1rem" /></a>
 
 </p>
-<br>
+
 <h3 align="left">Languages & Tools</h3>
 
 <br>
@@ -48,7 +47,7 @@
         <img style='margin-right:.5rem' src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
     </a> 
     </p>
-<br>
+
 
 ### Softwares
 
