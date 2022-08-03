@@ -45,7 +45,9 @@
     </a> 
     </p>
 <br>
+
 ### Softwares
+
 <p>
     <a href="https://www.code.visualstudio.com" target="_blank" rel="noreferrer">
         <img style='margin-right:.5rem' src="./assets/vscode.png" alt="figma" width="40" height="40" />
