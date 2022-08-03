@@ -8,10 +8,10 @@
 
 - 🌍 Based in Cebu, Philippines
 - 🖥️ Loading...
+- 🌱 Currently learning more about Frontend Development
 - ✉️ You may contact me at reynaldsampelo6@gmail.com
 - 🧠 I'm learning .NET Core + React for Capstone Project
 - 🤝 I'm open to collaborating on interesting projects
-
 
 <br>
 
@@ -47,7 +47,6 @@
         <img style='margin-right:.5rem' src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
     </a> 
     </p>
-
 
 ### Softwares
 
