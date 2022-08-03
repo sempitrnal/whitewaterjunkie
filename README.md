@@ -12,7 +12,7 @@
 - 🧠 I'm learning .NET Core + React for Capstone Project
 - 🤝 I'm open to collaborating on interesting projects
 
-## Socials
+### Socials
 
 <p>
 <a href='https://facebook.com/sampeloreynald'><img style='margin-right:.5rem' src='https://img.shields.io/badge/Bo-%20-%231877F2?style=social&logo=facebook'style="margin-right:1rem" /></a>
@@ -20,8 +20,8 @@
 <a href='https://instagram.com/__brownrecluse'><img style='margin-right:.5rem' src='https://img.shields.io/badge/@__brownrecluse-298-%231877F2?style=social&logo=instagram'style="margin-right:1rem" /></a>
 
 </p>
-
-<h2 align="left">Stack</h2>
+<br>
+<h3 align="left">Languages & Tools</h3>
 
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -44,5 +44,21 @@
         <img style='margin-right:.5rem' src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="40" height="40"/>
     </a> 
     </p>
-
+<br>
+###Softwares
+<p>
+    <a href="https://www.code.visualstudio.com" target="_blank" rel="noreferrer">
+        <img style='margin-right:.5rem' src="./assets/vscode.png" alt="figma" width="40" height="40"/>
+    </a> 
+    <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
+        <img style='margin-right:.5rem' src="./assets/dabinky.png" alt="davinci" width="40" height="40"/>
+    </a> 
+    <a href="https://www.code.visualstudio.com" target="_blank" rel="noreferrer">
+        <img style='margin-right:.5rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png" alt="figma" width="40" height="40"/>
+    </a> 
+    <a href="https://skylum.com/luminar" target="_blank" rel="noreferrer">
+        <img style='margin-right:.5rem' src="https://www.colormango.com/photo-graphic-design/boxshot/luminar-neo_152334.png" alt="luminarneo" width="40" height="40"/>
+    </a> 
+</p>
+<br>
 <p><img style='margin-right:.5rem' align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitewaterjunkie&show_icons=true&locale=en&layout=compact" alt="whitewaterjunkie" /></p>
