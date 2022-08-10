@@ -63,7 +63,7 @@
         <img style='margin-right:.5rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png" alt="figma" width="40" height="40"/>
     </a> 
     <a href="https://skylum.com/luminar" target="_blank" rel="noreferrer">
-        <img style='margin-right:.5rem' src="https://www.colormango.com/photo-graphic-design/boxshot/luminar-neo_152334.png" alt="luminarneo" width="40" height="40"/>
+        <img style='margin-right:.5rem' src="https://media.macphun.com/img/uploads/uploads/skylum/neo/logo/neo-logo.png?w=240" alt="luminarneo" width="40" height="40"/>
     </a> 
 </p>
 <br>
