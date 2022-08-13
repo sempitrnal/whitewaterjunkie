@@ -7,7 +7,7 @@
 </p>
 
 - 🌍 Based in Cebu, Philippines
-- 🖥️ Loading...
+- 🖥️ [My Portfolio](https://reynaldsampelo.com) [WIP]
 - 🌱 Currently learning more about Frontend Development
 - ✉️ You may contact me at reynaldsampelo6@gmail.com
 - 🧠 I'm learning .NET Core + React for Capstone Project
