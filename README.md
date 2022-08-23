@@ -22,7 +22,7 @@
 
 </p>
 
-<h3 align="left">Languages & Tools</h3>
+<h3 align="left">Stack</h3>
 
 <br>
 
