@@ -1,6 +1,6 @@
 # Hello 👋 My name is Bo
 
-## Frontend Dev | Student
+
 
 <p style='color:#555; line-height:2.5rem'>
  4th year IT Student at Cebu Institute of Technology - University. I am currently in the process of learning Frontend Development and I am enjoying it 😃👍 Aside from programming, I also like to do some recreational activities such as Freediving, Kickboxing, and Surfskating! 
